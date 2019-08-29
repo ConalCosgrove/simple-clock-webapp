@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#clockHolder {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+}
+
+#clock {
+    height: fit-content;
+    font-size: 10vw;
+}

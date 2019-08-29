@@ -1,0 +1,15 @@
+{
+  "name": "big-old-clock",
+  "version": "0.1.0",
+  "description": "A nice big clock to look at on desktop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conal Cosgrove",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
